@@ -1,0 +1,9 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Shark Attacks",
+    "section": "",
+    "text": "This website explores over a century of incidents recorded in the Global Shark Attack File (GSAF), a worldwide database compiled by the Shark Research Institute to document interactions between humans and sharks. Our cleaned dataset covers more than 5,000 reported incidents from 1901 through 2018, capturing where each encounter took place, what the person was doing in the water, and whether the outcome was fatal.\nMovies and headlines often portray sharks as relentless predators, fueling a fear of the ocean that is far out of proportion to the actual risk. Across millions of beachgoers, surfers, and divers entering the water every year, shark encounters remain extraordinarily rare—and even when an incident does happen, roughly four out of five cases with a known outcome in this dataset are non-fatal.\nUse the navigation bar above to explore the data across two views. The Map page shows how reported shark attacks are distributed by country around the world, highlighting major coastal hotspots like the United States, Australia, and South Africa. The Trends page breaks down fatal and non-fatal incidents across the most common water activities, showing how risk varies between sports like surfing, swimming, fishing, and diving."
+  }
+]
