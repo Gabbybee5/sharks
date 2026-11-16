@@ -34,5 +34,11 @@ map_data("world") |>
   left_join(country_counts, by = "Country_lower") |>
   ggplot(aes(x = long, y = lat, group = group, fill = n)) +
   geom_polygon(color = "white", linewidth = 0.1) +
-  coord_quickmap()
+  coord_quickmap() +
+  labs(
+    title = "Reported Shark Attacks by Country",
+    x = "Longitude",
+    y = "Latitude",
+    fill = "Attacks"
+  )
 ```
